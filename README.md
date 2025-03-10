@@ -12,6 +12,6 @@ Export from openSCAD in bulk, using combinations of parameters
 [To be determined]
 ```bash
  octoscad design.scad configurationFile.json
-``'
+```
 
 
